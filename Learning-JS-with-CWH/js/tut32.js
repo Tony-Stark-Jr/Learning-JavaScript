@@ -28,3 +28,6 @@ console.log(schoolLibrary);
 console.log(schoolLibrary.getBookList());
 console.log(schoolLibrary.issueBook("physics", "Santosh"));
 console.log(schoolLibrary.book('math'));
+
+
+// Do it with the help of prototype to become more dangerous developer
